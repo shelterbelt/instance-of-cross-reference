@@ -3,6 +3,11 @@
 ##
 ## Get latest from https://github.com/github/gitignore/blob/master/VisualStudio.gitignore
 
+# OS Runtime Files
+.DS_Store
+[Tt]humbs.db
+[Dd]esktop.ini
+
 # User-specific files
 *.rsuser
 *.suo
