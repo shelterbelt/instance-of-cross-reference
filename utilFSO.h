@@ -1,5 +1,8 @@
 // Majic Software File System Operations Dynamic Link Library
 // Version 1.0.0.1
+/*
+ * Copyright (c) 2004 Mark Johnson
+ */
 
 #ifndef __UTILFSO_H
 #define __UTILFSO_H

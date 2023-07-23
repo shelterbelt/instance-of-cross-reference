@@ -1,5 +1,8 @@
 // InstanceXRef.h : Include file for the Instance Of Cross Reference application.
 //
+/*
+ * Copyright (c) 2004 Mark Johnson
+ */
 
 
 /* Structure Definitions */

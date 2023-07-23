@@ -1,5 +1,8 @@
 // InstanceXRef.cpp : Defines the entry point for the Instance Of Cross Reference application.
 //
+/*
+ * Copyright (c) 2004 Mark Johnson
+ */
 
 #include "stdafx.h"
 #include "InstanceXRef.h"

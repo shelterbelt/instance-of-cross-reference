@@ -1,5 +1,8 @@
 // InstanceXRefConstants.h : Include file for constants defined for Instance Of Cross Reference application.
 //
+/*
+ * Copyright (c) 2004 Mark Johnson
+ */
 
 
 /* Application Processing Constants */
